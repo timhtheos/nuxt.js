@@ -8,7 +8,7 @@
   <a href="https://www.npmjs.com/package/nuxt"><img src="https://badgen.net/npm/license/nuxt" alt="License"></a>
   <a href="https://discord.nuxtjs.org/"><img src="https://badgen.net/badge/Discord/join-us/7289DA" alt="Discord"></a>
  </p>
- <p align="center">
+ <p align="right">
   <a href="#platinum-sponsors" alt="Platinum Sponsors on Open Collective"><img src="https://opencollective.com/nuxtjs/tiers/platinum-sponsors/badge.svg" /></a>
   <a href="#gold-sponsors" alt="Gold Sponsors on Open Collective"><img src="https://opencollective.com/nuxtjs/tiers/gold-sponsors/badge.svg" /></a>
   <a href="#silver-sponsors" alt="Silver Sponsors on Open Collective"><img src="https://opencollective.com/nuxtjs/tiers/silver-sponsors/badge.svg" /></a>
@@ -24,9 +24,9 @@
 
 ## Links
 
-- 📘 Documentation: [https://nuxtjs.org](https://nuxtjs.org)
+- 📘 Documentations: [https://nuxtjs.org](https://nuxtjs.org)
 - 👥 Community: [cmty.app/nuxt](https://cmty.app/nuxt)
-- 🎬 Video: [1 minute demo](https://www.youtube.com/watch?v=kmf-p-pTi40)
+- 🎬 Videos: [1 minute demo](https://www.youtube.com/watch?v=kmf-p-pTi40)
 - 🐦 Twitter: [@nuxt_js](https://twitter.nuxtjs.org/)
 - 💬 Chat: [Discord](https://discord.nuxtjs.org/)
 - 🌟 [AwesomeNuxt](https://awesome.nuxtjs.org/)
